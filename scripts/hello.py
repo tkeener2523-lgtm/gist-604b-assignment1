@@ -11,7 +11,7 @@ University of Arizona
 
 def main():
     print("Hello from GIST 604B!")
-    print("Student: [YOUR NAME]")
+    print("Student: Tucker Keener")
     print("Learning open source GIS workflows with GitHub")
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
 
