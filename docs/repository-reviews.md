@@ -95,3 +95,4 @@ The project does a good job at supporting multiple languages.
 ---
 
 ## Reflection
+Open Source projects are structured in various ways but usually have the same main components. The overarching main component is having a README file to explain to users how the project/repository works and how the user can use it. However, projects are structured in ways that are the most beneficial to the program. 
